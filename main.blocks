@@ -7,9 +7,9 @@
         `</field><next><block type="device_show_leds" id="Wt`Ns#aP%EPP,b.+M;Bv"><field name="LEDS">`
         . . # . . 
         . # . # . 
-        # # . . # 
-        # # . . # 
-        # # . . #
+        # . . . # 
+        # # # # # 
+        # . . . #
         `</field><next><block type="device_show_leds" id="z(~iYTF{I/4fn#[g.:_e"><field name="LEDS">`
         # . . . # 
         . # . # . 
